@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom Fonts */
+
+@font-face {
+  font-family: 'BigShouldersDisplay-Black';
+  src: url(../fonts/Big_Shoulders_Display/static/BigShouldersDisplay-Black.ttf);
+}
+
+@font-face {
+  font-family: 'Outfit';
+  src: url(../fonts/Outfit/static/Outfit-Light.ttf);
+}
+
+h1 {
+  font-family: 'BigShouldersDisplay-Black';
+  font-size: 5.5rem;
+}
+
+h2 {
+  font-family: 'BigShouldersDisplay-Black';
+  font-size: 4.375rem;
+}
+
+h3 {
+  font-family: 'BigShouldersDisplay-Black';
+  font-size: 3.125rem;
+}
+h4 {
+  font-family: 'BigShouldersDisplay-Black';
+  font-size: 2.25rem;
+}
+
+p {
+  font-family: 'Outfit';
+  font-size: 1.375rem;
+}
+
+.footer p {
+  font-family: 'Outfit';
+  font-size: 1.125rem;
+}
